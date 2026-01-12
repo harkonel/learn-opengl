@@ -1,0 +1,5 @@
+2026-01-07: project setup for LearnOpengl.com
+
+I wrote all important things in libraries.txt so I'll make it short. so far, I haven't needed to
+make include/ or external/ folder because that's what vcpkg is for. however, if I write my own
+headers (e.g., shaders), or need libraries not supported by vcpkg, I have to use those folders.

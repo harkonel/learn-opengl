@@ -1,0 +1,22 @@
+# build (from CMake)
+build/
+out/
+bin/
+lib/
+
+# vcpkg (libraries)
+vcpkg_installed/
+vcpkg/
+
+# clangd/CMake settings 
+.cache/
+.clangd/
+compile_commands.json
+CMakeUserPresets.json
+
+.vscode/
+.DS_Store
+Thumbs.db
+*.exe
+*.o
+*.a

@@ -1,0 +1,10 @@
+GLFW - Graphics Library Framework
+GLFW is a lib, it gives us the bare necessities required for rendering goodies to the screen.
+it allows us to create an Opengl context, define window parameters, and handle user input.
+
+GLAD
+since Opengl is a specification, the actual code lives inside our graphics card drivers.
+so, GLAD is here to retriving the locations of these function at runtime.
+
+GLM
+is a math library for OpenGL.
