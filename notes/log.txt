@@ -1,3 +1,7 @@
+2026-01-13: Hello Window
+
+after procrastinating for a fucking week I *finally* managed to make a window.
+
 2026-01-07: project setup for LearnOpengl.com
 
 I wrote all important things in libraries.txt so I'll make it short. so far, I haven't needed to
